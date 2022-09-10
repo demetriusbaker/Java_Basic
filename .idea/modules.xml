@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/10_Switch/10_Switch.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/10_Switch/10_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/11_Arrays/11_Arrays.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/11_Arrays/11_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/12_Foreach/12_Foreach.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/12_Foreach/12_Foreach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/13_Multidimenshional_array/13_Multidimenshional_array.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/13_Multidimenshional_array/13_Multidimenshional_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/14_Classes&amp;Objects/14_Classes&amp;Objects.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/14_Classes&amp;Objects/14_Classes&amp;Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/15_Methods/15_Methods.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/15_Methods/15_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/16_Type_Of_Return/16_Type_Of_Return.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/16_Type_Of_Return/16_Type_Of_Return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/17_Parameters_Of_Methods/17_Parameters_Of_Methods.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/17_Parameters_Of_Methods/17_Parameters_Of_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/18_Get_Set_Inc/18_Get_Set_Inc.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/18_Get_Set_Inc/18_Get_Set_Inc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/19_Constructor/19_Constructor.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/19_Constructor/19_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/20_This/20_This.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/20_This/20_This.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/21_Static/21_Static.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/21_Static/21_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/22_Final/22_Final.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/22_Final/22_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/23_StringBuilder/23_StringBuilder.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/23_StringBuilder/23_StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/24_Format_String/24_Format_String.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/24_Format_String/24_Format_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/25_Object_ToString/25_Object_ToString.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/25_Object_ToString/25_Object_ToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/26_Inheritance/26_Inheritance.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/26_Inheritance/26_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/27_Interfaces/27_Interfaces.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/27_Interfaces/27_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/28_Packages/28_Packages.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/28_Packages/28_Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/29_Modificators/29_Modificators.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/29_Modificators/29_Modificators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/2_Variables/2_Variables.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/2_Variables/2_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/30_Polymorphism/30_Polymorphism.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/30_Polymorphism/30_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/31_Bringing/31_Bringing.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/31_Bringing/31_Bringing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/32_Wrapper_Class/32_Wrapper_Class.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/32_Wrapper_Class/32_Wrapper_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/33_Transformation/33_Transformation.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/33_Transformation/33_Transformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/34_Parametrisation/34_Parametrisation.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/34_Parametrisation/34_Parametrisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/35_Wildcards/35_Wildcards.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/35_Wildcards/35_Wildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/36_Anonim_Class/36_Anonim_Class.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/36_Anonim_Class/36_Anonim_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/3_strings/3_strings.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/3_strings/3_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/4_While/4_While.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/4_While/4_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/5_For/5_For.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/5_For/5_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/6_IF/6_IF.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/6_IF/6_IF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/7_Scanner/7_Scanner.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/7_Scanner/7_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/8_Do_While/8_Do_While.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/8_Do_While/8_Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons (2 - n)/9_Break_Continue/9_Break_Continue.iml" filepath="$PROJECT_DIR$/Lessons (2 - n)/9_Break_Continue/9_Break_Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms and Data Structure/Algorithms and Data Structure.iml" filepath="$PROJECT_DIR$/Algorithms and Data Structure/Algorithms and Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codewars/Codewars.iml" filepath="$PROJECT_DIR$/Codewars/Codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Professional Renewed/ComparatorAndIterator/ComparatorAndIterator.iml" filepath="$PROJECT_DIR$/Java/Professional Renewed/ComparatorAndIterator/ComparatorAndIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Professional Renewed/Java Collections part 1/Java Collections part 1.iml" filepath="$PROJECT_DIR$/Java/Professional Renewed/Java Collections part 1/Java Collections part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Professional Renewed/Java Collections part 23/Java Collections part 23.iml" filepath="$PROJECT_DIR$/Java/Professional Renewed/Java Collections part 23/Java Collections part 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" filepath="$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Basic.iml" filepath="$PROJECT_DIR$/.idea/Java_Basic.iml" />
+    </modules>
+  </component>
+</project>
